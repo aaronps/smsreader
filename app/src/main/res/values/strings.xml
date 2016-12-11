@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMSReader</string>
+    <string-array name="main_options">
+        <item>Configure</item>
+        <item>Export</item>
+        <item>Import</item>
+        <item>View Messages</item>
+    </string-array>
+    <string-array name="main_configure_options">
+        <item>SMS Context</item>
+        <item>SMS Fields</item>
+    </string-array>
+</resources>
